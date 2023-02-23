@@ -97,4 +97,5 @@ $ pip install -U efficientnet
 # Project
 
 ### Train 2 Class
-[[1000 train](https://github.com/kittikhun62/efficientnet_keras_transfer_learning/blob/master/2Class.ipynb)](#about)
+[[1000 train](https://github.com/kittikhun62/efficientnet_keras_transfer_learning/blob/master/2Class.ipynb)]
+[[2000 train]([https://github.com/kittikhun62/efficientnet_keras_transfer_learning/blob/master/2Class.ipynb](https://github.com/kittikhun62/efficientnet_keras_transfer_learning/blob/master/2Class_2000.ipynb))]
