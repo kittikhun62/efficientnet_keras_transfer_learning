@@ -96,9 +96,11 @@ $ pip install -U efficientnet
 
 # Project
 
-### Train 2 Class
+### Train 2 Class and freeze
 [[1000 train](https://github.com/kittikhun62/efficientnet_keras_transfer_learning/blob/master/2Class.ipynb)]
 
 [[2000 train](https://github.com/kittikhun62/efficientnet_keras_transfer_learning/blob/master/2Class_2000.ipynb)]
 
 [[3000 train](https://github.com/kittikhun62/efficientnet_keras_transfer_learning/blob/master/2Class_3000.ipynb)]
+
+### Train 2 Class and Unfreeze
