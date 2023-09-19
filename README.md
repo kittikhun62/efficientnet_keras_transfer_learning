@@ -113,9 +113,10 @@ $ pip install -U efficientnet
 [[3000 predict](https://github.com/kittikhun62/efficientnet_keras_transfer_learning/blob/master/test_2_class_3.ipynb)]
 
 
-### Train 2 Class and Unfreeze
+### Real model Train 2 Class  Unfreeze and predict
+[[model 1](https://github.com/kittikhun62/efficientnet_keras_transfer_learning/blob/master/2class_test_datanew_nsc.ipynb)]
+
+[[model 1 unfreeze](https://github.com/kittikhun62/efficientnet_keras_transfer_learning/blob/master/UNfreeze_test_2_class_datanew_nsc.ipynb)]
 
 
 
-
-### Predict Train 2 Class and Unfreeze
